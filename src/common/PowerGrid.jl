@@ -23,7 +23,7 @@ end
 Powergrid(nodes, lines)
 ```
 
-creates a [`PowerGrid`](@ref) from nodes and lines (either given as a list or as a dictionay). 
+creates a [`PowerGrid`](@ref) from nodes and lines (either given as a list or as a dictionary). 
 The underlying graph is created automatically.
 
 """
